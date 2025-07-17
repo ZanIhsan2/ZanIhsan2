@@ -27,7 +27,7 @@ Punya minat di dunia web development, database, dan jaringan komputer.
 
 ## 📈 Statistik GitHub Saya
 
-![Razan's GitHub stats](https://github-readme-stats.vercel.app/api?username=razan123&show_icons=true&theme=tokyonight)
+![Razan's GitHub stats](https://github-readme-stats.vercel.app/api?username=ZanIhsan2&show_icons=true&theme=tokyonight)
 
 ---
 
