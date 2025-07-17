@@ -33,9 +33,9 @@ Punya minat di dunia web development, database, dan jaringan komputer.
 
 ## 📫 Hubungi Saya
 
-📧 Email: razan@example.com  
-🌐 LinkedIn: [linkedin.com/in/razan](https://linkedin.com/in/razan)  
-📍 Lokasi: Depok, Indonesia
+📧 Email: izan50488@gmail.com  
+🌐 LinkedIn: [linkedin.com/in/razan](www.linkedin.com/in/razan-muhammad-ihsan-rismawandi-92b44033b)  
+📍 Lokasi: Kabupaten Bogor, Indonesia
 
 ---
 
