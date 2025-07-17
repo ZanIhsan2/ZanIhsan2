@@ -1,16 +1,42 @@
-## Hi there 👋
+# 👋 Halo, saya Razan!
 
-<!--
-**ZanIhsan2/ZanIhsan2** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Selamat datang di profil GitHub saya!  
+Saya adalah mahasiswa Teknik Informatika di STT Terpadu Nurul Fikri 🧑‍💻  
+Punya minat di dunia web development, database, dan jaringan komputer.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀 Tentang Saya
+
+- 🔭 Saat ini sedang belajar Laravel, Filament, dan manajemen database.
+- 🌱 Belajar juga tentang Cisco, Packet Tracer, dan jaringan VLAN.
+- 🧠 Suka ngoprek, debugging, dan ngoding sambil ngopi ☕
+- ⚡ Fun fact: Bisa coding tengah malam sambil dengerin lo-fi 🤖🎧
+
+---
+
+## 🛠️ Tools & Tech yang Saya Gunakan
+
+![PHP](https://img.shields.io/badge/-PHP-777BB4?style=flat&logo=php&logoColor=white)
+![Laravel](https://img.shields.io/badge/-Laravel-FF2D20?style=flat&logo=laravel&logoColor=white)
+![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
+![MySQL](https://img.shields.io/badge/-MySQL-00758F?style=flat&logo=mysql&logoColor=white)
+![Cisco](https://img.shields.io/badge/-Cisco-1BA0D7?style=flat&logo=cisco&logoColor=white)
+
+---
+
+## 📈 Statistik GitHub Saya
+
+![Razan's GitHub stats](https://github-readme-stats.vercel.app/api?username=razan123&show_icons=true&theme=tokyonight)
+
+---
+
+## 📫 Hubungi Saya
+
+📧 Email: razan@example.com  
+🌐 LinkedIn: [linkedin.com/in/razan](https://linkedin.com/in/razan)  
+📍 Lokasi: Depok, Indonesia
+
+---
+
+> "Coding itu bukan soal hafalan, tapi soal logika + banyak coba-coba!" 🤓
