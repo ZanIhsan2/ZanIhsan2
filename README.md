@@ -37,6 +37,7 @@ Punya minat di dunia web development, database, dan jaringan komputer.
 
 📧 Email: izan50488@gmail.com  
 🌐 LinkedIn: [linkedin.com/in/razan-muhammad-ihsan-rismawandi-92b44033b](https://www.linkedin.com/in/razan-muhammad-ihsan-rismawandi-92b44033b)
+
 📍 Lokasi: Kabupaten Bogor, Indonesia
 
 ---
