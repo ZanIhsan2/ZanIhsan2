@@ -42,4 +42,4 @@ Punya minat di dunia web development, database, dan jaringan komputer.
 
 ---
 
-> "Coding itu bukan soal hafalan, tapi soal logika + banyak coba-coba!" 🤓
+> "Bismilah, One Day One Code"
