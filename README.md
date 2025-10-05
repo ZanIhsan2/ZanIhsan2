@@ -5,7 +5,7 @@
 
 ---
 
-<p align="center">
+<p align="left">
   🌟 <b>Mahasiswa Teknik Informatika</b> di STT Terpadu Nurul Fikri <br>
   💻 Web Developer | Database Enthusiast | Network Learner <br><br>
   <img src="https://komarev.com/ghpvc/?username=ZanIhsan2&color=blueviolet&style=flat-square" alt="Profile Views"/>
@@ -53,7 +53,7 @@
 ---
 
 ## 🌐 Hubungi Saya
-<p align="center">
+<p align="left">
   📧 <a href="mailto:izan50488@gmail.com">izan50488@gmail.com</a> <br>
   💼 <a href="https://www.linkedin.com/in/razan-muhammad-ihsan-rismawandi-92b44033b" target="_blank">LinkedIn</a> <br>
   📍 Kabupaten Bogor, Indonesia
