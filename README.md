@@ -1,33 +1,30 @@
-<h1 align="center">👋 Halo, Saya Razan Muhammad Ihsan Rismawandi!</h1>
+<!-- 🌌 Animated Banner -->
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=30&pause=1000&color=8A2BE2&center=true&vCenter=true&width=600&lines=Halo+👋,+Saya+Razan+Muhammad+Ihsan+Rismawandi!;Welcome+to+my+GitHub+Profile!;Let's+Code+and+Grow+Together+🚀" alt="Typing SVG" />
+</p>
+
+---
 
 <p align="center">
-  🌟 Mahasiswa Teknik Informatika di <b>STT Terpadu Nurul Fikri</b>  
-  <br>
-  💻 Web Developer | Database Enthusiast | Network Learner  
-  <br><br>
+  🌟 <b>Mahasiswa Teknik Informatika</b> di STT Terpadu Nurul Fikri <br>
+  💻 Web Developer | Database Enthusiast | Network Learner <br><br>
   <img src="https://komarev.com/ghpvc/?username=ZanIhsan2&color=blueviolet&style=flat-square" alt="Profile Views"/>
 </p>
 
 ---
 
 ## 🧠 Tentang Saya
-- 🎓 Saat ini saya sedang menempuh studi di bidang <b>Teknik Informatika</b>.
-- 🔭 Fokus belajar: <b>Laravel</b>, <b>Filament</b>, dan manajemen <b>database MySQL</b>.
-- 🌱 Sedang mengeksplorasi dunia <b>jaringan komputer</b> (Cisco, VLAN, Packet Tracer).
-- ☕ Hobi ngoding tengah malam sambil dengerin <b>lo-fi beats</b>.
-- ⚡ Moto: <i>“Bismillah, One Day One Code.”</i>
+- 🎓 Sedang menempuh studi di bidang **Teknik Informatika**  
+- 🔭 Fokus belajar: **Laravel**, **Filament**, dan **Database Management (MySQL)**  
+- 🌱 Mengeksplorasi dunia **Networking** (Cisco, VLAN, Packet Tracer)  
+- ☕ Ngoding tengah malam sambil dengerin **lo-fi beats**  
+- ⚡ Moto: _“Bismillah, One Day One Code.”_
 
 ---
 
 ## 🛠️ Tech Stack & Tools
 <p align="center">
-  <img src="https://img.shields.io/badge/-PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" />
-  <img src="https://img.shields.io/badge/-Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white" />
-  <img src="https://img.shields.io/badge/-JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
-  <img src="https://img.shields.io/badge/-Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white" />
-  <img src="https://img.shields.io/badge/-Tailwind%20CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" />
-  <img src="https://img.shields.io/badge/-MySQL-00758F?style=for-the-badge&logo=mysql&logoColor=white" />
-  <img src="https://img.shields.io/badge/-Cisco-1BA0D7?style=for-the-badge&logo=cisco&logoColor=white" />
+  <img src="https://skillicons.dev/icons?i=php,laravel,js,nodejs,tailwind,mysql,cisco,vscode,github" />
 </p>
 
 ---
@@ -44,6 +41,17 @@
 
 ---
 
+## 🌈 Fun Section
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=ZanIhsan2&theme=tokyonight&no-frame=true&row=1&column=6" alt="GitHub Trophies"/>
+</p>
+
+<p align="center">
+  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="80">
+</p>
+
+---
+
 ## 🌐 Hubungi Saya
 <p align="center">
   📧 <a href="mailto:izan50488@gmail.com">izan50488@gmail.com</a> <br>
@@ -54,3 +62,7 @@
 ---
 
 <h3 align="center">✨ “Keep learning, keep coding, keep growing.” ✨</h3>
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg" alt="snake animation" />
+</p>
