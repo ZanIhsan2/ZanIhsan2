@@ -1,6 +1,6 @@
 <!-- 🌌 Animated Banner -->
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=30&pause=1000&color=8A2BE2&center=true&vCenter=true&width=600&lines=Halo+👋,+Saya+Razan+Muhammad+Ihsan+Rismawandi!;Welcome+to+my+GitHub+Profile!;Let's+Code+and+Grow+Together+🚀](https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=30&pause=1000&color=8A2BE2&center=true&vCenter=true&width=700&lines=Halo,+Saya+Razan+Muhammad+Ihsan+Rismawandi;Welcome+to+my+GitHub+Profile;Let's+Code+and+Grow+Together" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=30&pause=1000&color=8A2BE2&center=true&vCenter=true&width=700&lines=Halo,+Saya+Razan+Muhammad+Ihsan+Rismawandi;Welcome+to+my+GitHub+Profile;Let's+Code+and+Grow+Together" alt="Typing SVG" />
 </p>
 
 ---
