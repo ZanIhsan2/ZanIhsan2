@@ -7,7 +7,7 @@
 
 <p align="left">
   🌟 <b>Mahasiswa Teknik Informatika</b> di STT Terpadu Nurul Fikri <br>
-  💻 Web Developer | Database Enthusiast | Network Learner <br><br>
+  💻 Web Developer | Database Enthusiast | Network Learner | Data_Analis<br><br>
   <img src="https://komarev.com/ghpvc/?username=ZanIhsan2&color=blueviolet&style=flat-square" alt="Profile Views"/>
 </p>
 
@@ -15,7 +15,7 @@
 
 ## 🧠 Tentang Saya
 - 🎓 Sedang menempuh studi di bidang **Teknik Informatika**  
-- 🔭 Fokus belajar: **Laravel**, **Filament**, dan **Database Management (MySQL)**  
+- 🔭 Fokus belajar: **Laravel**, **Filament**, dan **Database Management (MySQL)** **Machine Learning** 
 - 🌱 Mengeksplorasi dunia **Networking** (Cisco, VLAN, Packet Tracer)  
 - ☕ Ngoding tengah malam sambil dengerin **lo-fi beats**  
 - ⚡ Moto: _“Bismillah, One Day One Code.”_
@@ -24,7 +24,7 @@
 
 ## 🛠️ Tech Stack & Tools
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=php,laravel,js,nodejs,tailwind,mysql,cisco,vscode,github" />
+  <img src="https://skillicons.dev/icons?i=php,laravel,js,nodejs,tailwind,mysql,cisco,vscode,github,figma&theme=light,git,py" />
 </p>
 
 ---
