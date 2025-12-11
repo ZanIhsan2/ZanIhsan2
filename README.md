@@ -2,18 +2,18 @@
 <tr>
 <td width="320">
 
-<img src="https://github.com/IllalRajinCoding/content/blob/main/anime-shupogaki.gif" width="320" alt="Coding GIF"/>
+<!-- GIF baru, lebih clean dan aesthetic -->
+<img src="https://github.com/IllalRajinCoding/content/blob/main/coding-girl-purple.gif" width="320" alt="Coding GIF"/>
 
 </td>
 <td>
 
-[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Halo+Welcome!;Saya+Razan+Muhammad+Ihsan+Rismawandi!;Web+Developer+%26+Tech+Enthusiast!)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Hi,+Welcome!;I'm+Razan+Muhammad+Ihsan+Rismawandi;Web+Dev+%7C+Data+%7C+AI+Learner)](https://git.io/typing-svg)
 
-- 🎓 Mahasiswa **Teknik Informatika** di STT Terpadu Nurul Fikri  
-- 💻 Fokus belajar **Laravel**, **Filament**, **Database MySQL**, dan **Networking**  
-- 📈 Tertarik pada **Machine Learning**, **Automation**, dan **Data**  
-- ☕ Ngoding malam ditemani **lo-fi beats**  
-- ⚡ Moto: **One Day One Code**
+- 🎓 Mahasiswa **Teknik Informatika**  
+- 💻 Fokus di **Web Development** (Laravel, Tailwind, Filament)  
+- 📊 Mulai mendalami **Data Analysis** & **AI/ML**  
+- 🌙 Suka ngoding malam sambil dengerin **lo-fi**  
 
 ![Visitor Count](https://komarev.com/ghpvc/?username=ZanIhsan2&color=blueviolet)
 
