@@ -3,7 +3,7 @@
 <td width="320">
 
 <!-- GIF baru, lebih clean dan aesthetic -->
-<img src="https://github.com/IllalRajinCoding/content/blob/main/coding-girl-purple.gif" width="320" alt="Coding GIF"/>
+<img src="https://media.tenor.com/popcat-meme.gif" width="320" alt="Pop Cat Meme"/>
 
 </td>
 <td>
@@ -26,3 +26,5 @@
 </td>
 </tr>
 </table>
+
+<p align="center"> <img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg" width="100%" /> </p>
