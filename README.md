@@ -22,7 +22,6 @@ Moto saya: **“One Day One Code.”**
 
 ## 🛠️ Tech Stack
 <p align="center">
-  <!-- Ikon aman load -->
   <img src="https://skillicons.dev/icons?i=php,laravel,js,html,css,tailwind,mysql,git,github,py,vscode&theme=light" />
 </p>
 
@@ -30,8 +29,10 @@ Moto saya: **“One Day One Code.”**
 
 ## 📊 GitHub Stats
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ZanIhsan2&show_icons=true&theme=tokyonight&hide_border=true" width="48%" />
-  <img src="https://streak-stats.demolab.com?user=ZanIhsan2&theme=tokyonight&hide_border=true" width="48%" />
+  <!-- Mirror server yang stabil -->
+  <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=ZanIhsan2&show_icons=true&theme=tokyonight&hide_border=true" width="48%" />
+  
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=ZanIhsan2&theme=tokyonight&hide_border=true" width="48%" />
 </p>
 
 ---
