@@ -2,8 +2,7 @@
 <tr>
 <td width="320">
 
-<!-- GIF baru, lebih clean dan aesthetic -->
-<img src="https://media.tenor.com/popcat-meme.gif" width="320" alt="Pop Cat Meme"/>
+<img src="https://media.tenor.com/v5f4jLLYvq8AAAAC/pop-cat.gif" width="320" alt="Pop Cat Meme"/>
 
 </td>
 <td>
