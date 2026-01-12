@@ -7,12 +7,12 @@
 </td>
 <td>
 
-[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Hi,+Welcome!;I'm+Razan+Muhammad+Ihsan+Rismawandi;Web+Dev+%7C+Data+%7C+AI+Learner)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Hi,+I'm+Razan+Muhammad+Ihsan;Web+Developer+%7C+Data+Enthusiast+%7C+AI+Learner)](https://git.io/typing-svg)
 
 - 🎓 Mahasiswa **Teknik Informatika**  
-- 💻 Fokus di **Web Development** (Laravel, Tailwind, Filament)  
+- 💻 Fokus di **Web Development** (React, TypeScript, Tailwind CSS, Laravel)  
 - 📊 Mulai mendalami **Data Analysis** & **AI/ML**  
-- 🌙 Suka ngoding malam sambil dengerin **lo-fi**  
+- 🌙 Menikmati coding dengan **lo-fi music** di malam hari  
 
 ![Visitor Count](https://komarev.com/ghpvc/?username=ZanIhsan2&color=blueviolet)
 
@@ -26,4 +26,6 @@
 </tr>
 </table>
 
-<p align="center"> <img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg" width="100%" /> </p>
+<p align="center"> 
+<img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg" width="100%" /> 
+</p>
