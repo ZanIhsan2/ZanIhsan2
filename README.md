@@ -2,8 +2,7 @@
 <tr>
 <td width="320">
 
-<img src="https://raw.githubusercontent.com/ZanIhsan2/ZanIhsan2/main/animasi-bergerak-naruto-0807.gif
-" width="320" alt="Pop Cat Meme"/>
+<img src="https://raw.githubusercontent.com/ZanIhsan2/ZanIhsan2/main/animasi-bergerak-naruto-0807.gif" width="320" alt="Pop Cat Meme"/>
 
 </td>
 <td>
