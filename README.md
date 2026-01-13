@@ -8,11 +8,10 @@
 <td>
 
 [![Typing SVG](https://readme-typing-svg.demolab.com/?font=JetBrains+Mono&weight=600&size=23&duration=3000&pause=800&lines=Hi,+I'm+Razan+Muhammad+Ihsan;Web+Developer+%7C+Data+Enthusiast+%7C+AI+Learner)](https://git.io/typing-svg)
-
-- 🎓 Mahasiswa **Teknik Informatika**  
-- 💻 Fokus di **Web Development** (React, TypeScript, Tailwind CSS, Laravel)  
-- 📊 Mulai mendalami **Data Analysis** & **AI/ML**  
-- 🌙 Menikmati coding dengan **lo-fi music** di malam hari  
+- 🎓 Undergraduate student in **Informatics Engineering**  
+- 💻 Specialized in **Web Development** (React, TypeScript, Tailwind CSS, Laravel)  
+- 📊 Currently exploring **Data Analysis** and **AI/Machine Learning**  
+- 🌙 Enjoys late-night coding sessions with **lo-fi music** 
 
 ![Visitor Count](https://komarev.com/ghpvc/?username=ZanIhsan2&color=blueviolet)
 
