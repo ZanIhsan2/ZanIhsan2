@@ -7,7 +7,7 @@
 </td>
 <td>
 
-[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Hi,+I'm+Razan+Muhammad+Ihsan;Web+Developer+%7C+Data+Enthusiast+%7C+AI+Learner)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com/?font=JetBrains+Mono&weight=600&size=23&duration=3000&pause=800&lines=Hi,+I'm+Razan+Muhammad+Ihsan;Web+Developer+%7C+Data+Enthusiast+%7C+AI+Learner)](https://git.io/typing-svg)
 
 - 🎓 Mahasiswa **Teknik Informatika**  
 - 💻 Fokus di **Web Development** (React, TypeScript, Tailwind CSS, Laravel)  
