@@ -8,12 +8,13 @@
       <img src="https://komarev.com/ghpvc/?username=ZanIhsan2&color=blueviolet&style=flat-square" alt="Visitor Count"/>
     </td>
     <td valign="top">
-      <img src="https://readme-typing-svg.demolab.com/?font=JetBrains+Mono&weight=600&size=24&duration=3000&pause=800&color=9370DB&lines=Hi,+I'm+Razan+Muhammad+Ihsan;Web+Developer;Data+Enthusiast;AI+Learner" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com/?font=JetBrains+Mono&weight=600&size=24&duration=3000&pause=800&color=9370DB&lines=Hi,+I'm+Razan+Muhammad+Ihsan;Web+Developer;Data+Enthusiast;AI+Learner" alt="Typing SVG" />
 
 - 🎓 **Education:** Undergraduate Informatics Engineering 
 - 💻 **Tech Focus:** Web Dev (React, TypeScript, Laravel)
 - 📊 **Interest:** Data Analysis & Machine Learning
 - 🌙 **Vibe:** Late-night coding & lo-fi music
+...
 
 ### 🌐 Connect With Me
 <p align="left">
