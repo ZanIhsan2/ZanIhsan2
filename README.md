@@ -13,14 +13,14 @@
 - 🎓 **Education:** Undergraduate Informatics Engineering 
 - 💻 **Tech Focus:** Web Dev (React, TypeScript, Laravel)
 - 📊 **Interest:** Data Analysis & Machine Learning
+- 🌐 **Portfolio:** [zannuts.vercel.app](https://zannuts.vercel.app) 
 - 🌙 **Vibe:** Late-night coding & lo-fi music
-...
 
 ### 🌐 Connect With Me
 <p align="left">
-<a href="mailto:izan50488@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white" /></a>
-<a href="https://www.linkedin.com/in/razan-muhammad-ihsan-rismawandi-92b44033b"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white" /></a>
-<a href="https://github.com/iwanskuyy"><img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white" /></a>
+<a href="https://zannuts.vercel.app"><img src="https://img.shields.io/badge/Portfolio-9370DB?style=for-the-badge&logo=vercel&logoColor=white" /></a>
+<a href="mailto:izan50488@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+<a href="https://www.linkedin.com/in/razan-muhammad-ihsan-rismawandi-92b44033b"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 </p>
     </td>
   </tr>
@@ -46,5 +46,3 @@
 <div align="center">
   <img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg" width="100%" alt="Snake Game" />
 </div>
-
----
