@@ -1,19 +1,19 @@
 <div align="center">
 
-<table>
+<table width="100%">
   <tr>
-    <td align="center" width="350">
-      <img src="https://raw.githubusercontent.com/ZanIhsan2/ZanIhsan2/main/animasi-bergerak-naruto-0807.gif" width="300" style="border-radius: 10px;" alt="Naruto Animation"/>
-      <br>
+    <td align="center" width="40%" valign="middle">
+      <img src="https://raw.githubusercontent.com/ZanIhsan2/ZanIhsan2/main/animasi-bergerak-naruto-0807.gif" width="250" style="border-radius: 10px;" alt="Naruto Animation"/>
+      <br><br>
       <img src="https://komarev.com/ghpvc/?username=ZanIhsan2&color=blueviolet&style=flat-square" alt="Visitor Count"/>
     </td>
-    <td valign="top">
-  <img src="https://readme-typing-svg.demolab.com/?font=JetBrains+Mono&weight=600&size=24&duration=3000&pause=800&color=9370DB&lines=Hi,+I'm+Razan+Muhammad+Ihsan;Web+Developer;Data+Enthusiast;AI+Learner" alt="Typing SVG" />
+    <td valign="top" width="60%">
+      <img src="https://readme-typing-svg.demolab.com/?font=JetBrains+Mono&weight=600&size=24&duration=3000&pause=800&color=9370DB&lines=Hi,+I'm+Razan+Muhammad+Ihsan;Web+Developer;Data+Enthusiast;AI+Learner" alt="Typing SVG" />
 
-- 🎓 **Education:** Undergraduate Informatics Engineering 
+- 🎓 **Education:** Undergraduate Informatics Engineering
 - 💻 **Tech Focus:** Web Dev (React, TypeScript, Laravel)
 - 📊 **Interest:** Data Analysis & Machine Learning
-- 🌐 **Portfolio:** [zannuts.vercel.app](https://zannuts.vercel.app) 
+- 🌐 **Portfolio:** [zannuts.vercel.app](https://zannuts.vercel.app)
 - 🌙 **Vibe:** Late-night coding & lo-fi music
 
 ### 🌐 Connect With Me
@@ -37,8 +37,8 @@
 
 ### 📊 GitHub Analysis
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ZanIhsan2&show_icons=true&theme=dracula&hide_border=true&title_color=9370DB" width="49%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ZanIhsan2&layout=compact&theme=dracula&hide_border=true&title_color=9370DB" width="44%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=ZanIhsan2&show_icons=true&theme=dracula&hide_border=true&title_color=9370DB" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ZanIhsan2&layout=compact&theme=dracula&hide_border=true&title_color=9370DB" width="45%" />
 </p>
 
 <br>
