@@ -37,8 +37,7 @@
 
 ### 📊 GitHub Analysis
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ZanIhsan2&show_icons=true&theme=dracula&hide_border=true&title_color=9370DB" width="48%" alt="GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ZanIhsan2&layout=compact&theme=dracula&hide_border=true&title_color=9370DB" width="45%" alt="Top Langs" />
+  <img src="https://metrics.lecoq.io/ZanIhsan2?template=classic&base.header=0&base.activity=0&base.community=0&base.repositories=0&base.metadata=0&languages=1&languages.sections=most-used&languages.details=percentage&theme=dracula" width="100%" />
 </p>
 
 <br>
