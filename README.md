@@ -37,7 +37,7 @@
 
 ### 📊 GitHub Analysis
 <p align="center">
-  <img src="https://metrics.lecoq.io/ZanIhsan2?template=classic&base.header=0&base.activity=0&base.community=0&base.repositories=0&base.metadata=0&languages=1&languages.sections=most-used&languages.details=percentage&theme=dracula" width="100%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ZanIhsan2&theme=dracula&hide_border=true&ring=9370DB&fire=9370DB" width="100%" alt="GitHub Streak" />
 </p>
 
 <br>
