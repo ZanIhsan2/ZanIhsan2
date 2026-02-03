@@ -37,7 +37,8 @@
 
 ### 📊 GitHub Analysis
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ZanIhsan2&theme=dracula&hide_border=true&ring=9370DB&fire=9370DB" width="100%" alt="GitHub Streak" />
+  <img src="https://github-readme-stats.vercel.app/api?username=ZanIhsan2&show_icons=true&theme=dracula&hide_border=true&title_color=9370DB" width="49%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ZanIhsan2&layout=compact&theme=dracula&hide_border=true&title_color=9370DB" width="44%" />
 </p>
 
 <br>
