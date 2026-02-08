@@ -13,7 +13,7 @@
 - 🎓 **Education:** Undergraduate Informatics Engineering
 - 💻 **Tech Focus:** Web Dev (React, TypeScript, Laravel)
 - 📊 **Interest:** Data Analysis & Machine Learning
-- 🌐 **Portfolio:** [zannuts.vercel.app](https://rzn.web.id)
+- 🌐 **Portfolio:** [rzn.web.id](https://rzn.web.id)
 - 🌙 **Vibe:** Late-night coding & lo-fi music
 
 ### 🌐 Connect With Me
