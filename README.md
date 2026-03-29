@@ -11,7 +11,7 @@
       <img src="https://readme-typing-svg.demolab.com/?font=JetBrains+Mono&weight=600&size=24&duration=3000&pause=800&color=9370DB&lines=Hi,+I'm+Razan+Muhammad+Ihsan;Web+Developer;Data+Enthusiast;AI+Learner" alt="Typing SVG" />
 
 - 🎓 **Education:** Undergraduate Informatics Engineering
-- 💻 **Tech Focus:** Web Dev (React, TypeScript, Laravel)
+- 💻 **Tech Focus:** Web Dev (React, TypeScript, Laravel, MySQL, PostgreSQL)
 - 📊 **Interest:** Data Analysis & Machine Learning
 - 🌐 **Portfolio:** [rzn.web.id](https://rzn.web.id)
 - 🌙 **Vibe:** Late-night coding & lo-fi music
